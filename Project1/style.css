@@ -1,0 +1,7 @@
+.circle{
+    background-color: blue;
+    width: 10rem;
+    height: 10rem;
+    margin: 5rem auto;
+    border-radius: 50%;
+}
