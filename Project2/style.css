@@ -27,3 +27,15 @@ img{
     left: 0;
     margin: auto;
 }
+
+.circle{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    border-radius: 50%;
+    background-color: red;
+    right: -400px;
+    bottom: -100px;
+    display: inline-block;
+
+}
